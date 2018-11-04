@@ -1,4 +1,3 @@
 # CRTP TEST
 - usage  
-comment out CLASS_MODE will run normal class test
-otherwise CRTP class test
+Commenting out CLASS_MODE will run normal class test, otherwise CRTP class test
